@@ -1,0 +1,11 @@
+.section{background-color: rgb(202, 219, 47);
+padding: 50px;
+}
+.h2{
+    color: rgb(72, 21, 211);
+    text-decoration: rgb(52, 52, 100) underline;
+}
+.p{
+    text-align: center;
+    color: rgb(53, 32, 110);
+}

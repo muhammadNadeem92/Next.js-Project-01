@@ -1,0 +1,23 @@
+.footer{
+    background-color: skyblue;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.h5{
+    color: rgb(24, 9, 243);
+}
+
+.input{
+    text-align: center;
+    padding: 8px ;
+    margin: 3px 3px;
+    border-radius: 2px 2px;
+    border: 2px solid black;
+}
+.p{
+    text-align: center;
+    color: rgb(247, 10, 10);
+}

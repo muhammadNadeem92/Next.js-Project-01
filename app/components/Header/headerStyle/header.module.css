@@ -1,0 +1,49 @@
+.header{
+    background-color: yellowgreen;
+    padding: 20px;
+}
+
+.ul{
+    background-color: blueviolet;
+    overflow: auto;
+    border-radius: 36px;
+}
+
+.li{
+    float: left;
+    list-style: none;
+    border-radius: 8px 8px;
+   
+    margin: 15px 15px;
+    
+}
+.link{
+  
+    padding: 6px 6px;
+    color:white
+}
+.search{
+   float: right;
+    padding: 13px 55px;
+    
+    
+}
+.input{
+    text-align: center;
+    padding: 3px 3px;
+    border: 2px solid black;
+    border-radius: 11px 11px;
+
+}
+.h1{
+    color: yellow;
+    text-align: center;
+}
+.p{
+    color: rgb(109, 67, 4);
+    text-align: center;
+}
+.h2{
+    color: rgb(253, 253, 9);
+    
+}
